@@ -51,7 +51,6 @@ cd wordle
 - **(2) Install dependencies**
 ```
 npm install
-npm run dev
 ```
 - **(3) Run the development server**
 ```
