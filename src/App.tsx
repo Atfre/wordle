@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import Grid from './components/Grid'
-import Keyboard from './components/Keyboard'
+import Grid from './components/Grid.tsx'
+import Keyboard from './components/Keyboard.tsx'
 import { getKeyboardStates } from './utils.ts'
 import { getWord } from './word.ts'
 
