@@ -1,6 +1,7 @@
 # ✅ Wordle - Clone Game
 
 A fully functional Wordle clone built with **React**, **TypeScript** and **Vite**.
+
 The project recreates the main mechanics of the original Wordle game, focusing on clean architecture, state management, and a custom letter evaluation algorithm.
 
 ## 💻 Live Demo
